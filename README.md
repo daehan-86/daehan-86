@@ -1,15 +1,13 @@
 ### Hi there 👋
 
-
-
 <h1>하루 공부 루틴</h1>
-<ul>
+<ol>
   <li>wsdfa</li>
   <li>wsdfa</li>
   <li>wsdfa</li>
   <li>wsdfa</li>
   <li>wsdfa</li>
-</ul>
+</ol>
   
 <!--
 **daehan-86/daehan-86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
