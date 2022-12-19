@@ -1,4 +1,9 @@
 ### Hi there 👋
+<head>
+  <style>
+    
+  </style>
+</head>
 <body>
   <h1>study plan</h1>
   <h3>2022.12</h3>
