@@ -1,6 +1,18 @@
 ### Hi there 👋
 <h1>study plan</h1>
 <h3>2022.12</h3>
+<table>
+  <th>SUN</th>
+  <th>MON</th>
+  <th>TUE</th>
+  <th>WED</th>
+  <th>THU</th>
+  <th>FRI</th>
+  <th>SAT</th>
+  <tr>
+    
+  </tr>
+</table>
 <ul>
   <li>알고리즘과 혼공머 공부하기</li>
 </ul>
