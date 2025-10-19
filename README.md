@@ -1,10 +1,8 @@
-# 👋 화이팅
+# 👋 DaeHan Yoon
 
 ## 🧑‍💻 About Me
 - 🎓 부산대학교 컴퓨터공학과 3학년
-- 🚀 관심 분야: [AI/ML, 임베디드, 웹/앱 개발 등 작성]
-- 🌱 지금 배우는 것: [예: Rust, TypeScript, 강화학습 등]
-- 🎯 목표: [단기/장기 목표]
+- 🚀 관심 분야: AI/ML, 임베디드
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
